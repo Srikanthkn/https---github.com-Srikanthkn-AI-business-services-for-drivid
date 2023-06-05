@@ -1,0 +1,153 @@
+/* Global styles */
+body {
+     background-color: #e2e0ef ;
+   }
+   
+   /* Header styles */
+   header {
+     background-color: #041667;
+     color: #fff;
+     width: auto;
+     height: 40px;
+     padding: 2px;
+   }
+   
+   .hedder{
+    margin-top: 20px;
+   }
+   .logo {
+     font-size: 24px;
+     font-weight: bold;
+   }
+   
+   .navigation {
+     list-style: none;
+   }
+   
+   .navigation li {
+     display: inline-block;
+     margin-right: 10px;
+   }
+   
+   .navigation a {
+     color: #fff;
+     text-decoration: none;
+   }
+   
+   .container {
+     width: 180px;
+     height: 180px;
+     margin:0 auto;
+     margin-top: 20px;
+     padding: 20px;
+     border: 1px solid #ccc;
+     border-radius: 5px;
+   }
+
+   .container h2 {
+     text-align: center;
+   }
+
+   .container input[type="text"],
+   .container input[type="password"] {
+     width: 90%;
+     padding: 10px;
+     margin-bottom: 10px;
+     border: 1px solid #ccc;
+     border-radius: 5px;
+   }
+   .i{
+    width: fit-content;
+    height: fit-content;
+   }
+
+   .login {
+     width: 50%;
+     background-color: #4CAF50;
+     color: white;
+     border: none;
+     border-radius: 5px;
+     float:right;
+     cursor: pointer;
+   }
+
+   .login:hover {
+     background-color: #4546a0;
+   }
+   .signup {
+    width: 50%;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    float:right;
+    cursor: pointer;
+  }
+  .signup:hover {
+    background-color: #4546a0;
+
+  }
+      
+  
+   /*registration page*/
+   .b1 {
+    background-color: rgb(20, 40, 33);
+  }
+  .b2 {
+    background-color: rgb(26, 221, 156);
+  }
+
+  .container1 {
+    width: 200px;
+    height: 270px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #351ad2;
+    border-radius: 5px;
+  }
+
+  .container1 h2 {
+    text-align: center;
+  }
+
+  .container1 input[type="text"],
+  .container1 input[type="password"] {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .container1 input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .container1 input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+
+  div.scroll-container {
+    background-color: #fbf8f8;
+    overflow: auto;
+    box-shadow: #041667;
+    white-space: nowrap;
+    padding: 0px;
+  }
+  
+  div.scroll-container img {
+    padding: 10px;
+  }
+
+
+
+
+   /* Add more CSS styles for other sections as needed */
+   
